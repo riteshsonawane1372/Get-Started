@@ -1,0 +1,9 @@
+{
+    "first_name"   : "example_firstname",
+    "last_name"    : "example_lastname",
+    "college"      : "Diems",
+    "branch"       : "Computer Science or other",
+    "introduction" : "Introduction yourself in one line",
+    "hobbies"      : ["Computer","Electronics","Programming","etc"],
+    "explain"      :"Explain what help you want from this repo and from the Diems organization"
+}   
